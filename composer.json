@@ -1,0 +1,9 @@
+{
+    "description": "Website for the solid Symposium",
+    "license": "MIT",
+    "name": "muze/solid-symposium-web",
+    "require": {
+        "simplyedit/simplyedit-backend": "dev-master"
+    },
+    "type": "project"
+}
