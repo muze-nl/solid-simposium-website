@@ -48,12 +48,13 @@ For the live version of the website, the following are required:
 these can be created using the following commands:
 ```sh
 composer install
-mkdir html
-ln -s assets/ html/assets
-ln -s data/ html/data
-ln -s generated.html html/index.html
-ln -s vendor/simplyedit/simplyedit-backend/www/.htaccess html/.htaccess
-ln -s vendor/simplyedit/simplyedit-backend/www/simply-edit/ html/simply-edit
+mkdir www
+cd www
+ln -s ../assets/ .
+ln -s ../data/ .
+ln -s ../generated.html index.html
+ln -s ../vendor/simplyedit/simplyedit-backend/www/.htaccess .
+ln -s ../vendor/simplyedit/simplyedit-backend/www/simply-edit/ .
 ```
 
 ## License
