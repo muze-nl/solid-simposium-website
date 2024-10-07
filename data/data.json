@@ -21,8 +21,8 @@
 		},
 		"menu": [],
 		"banner": "banner",
-		"banner title": "Solid Symposium",
-		"banner description": "Third Solid Symposium: FAIR Data Spaces, Linked Web Storage, and applications",
+		"banner title": "INternational Solid Symposium",
+		"banner description": "Prospects and Applications of FAIR Linked Data Spaces",
 		"banner button": {
 			"href": "mailto:govert@muze.nl?subject=Subscribe Solid Symposium 2025&body=I'd like to be updated when there is news about the Solid Symposium. Thanks!",
 			"class": "button special",
@@ -46,8 +46,8 @@
 		"sections": [
 			{
 				"section one icons": [],
-				"section one title": "THIRD SOLID SYMPOSIUM: FAIR DATA SPACES, LINKED WEB STORAGE, AND APPLICATIONS",
-				"section one description": "19 and 20 may 2025<br>LUMC, Leiden, The Netherlands<br><br>About solid:<div><a href=\"https://solidproject.org/\">https://solidproject.org/</a></div>"
+				"section one title": "International Solid Symposium: Prospects and Applications of FAIR Linked Data Spaces",
+				"section one description": "April 24/25 Thursday/Friday.<br>LUMC, Leiden, The Netherlands<br><br>About solid:<div><a href=\"https://solidproject.org/\">https://solidproject.org/</a></div>"
 			}
 		]
 	}
