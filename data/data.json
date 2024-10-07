@@ -24,14 +24,14 @@
 		"banner title": "INternational Solid Symposium",
 		"banner description": "Prospects and Applications of FAIR Linked Data Spaces",
 		"banner button": {
-			"href": "mailto:govert@muze.nl?subject=Subscribe Solid Symposium 2025&body=I'd like to be updated when there is news about the Solid Symposium. Thanks!",
+			"href": "mailto:sjoerd@muze.nl?subject=Subscribe Solid Symposium 2025&body=I'd like to be updated when there is news about the Solid Symposium. Thanks!",
 			"class": "button special",
 			"alt": null,
 			"title": "keepmeupdated",
 			"innerHTML": "Keep me updated",
 			"name": "SendEmail",
 			"id": "SendEmail",
-			"rel": "nofollow"
+			"nofollow": true
 		},
 		"banner link": {
 			"href": "#one",
