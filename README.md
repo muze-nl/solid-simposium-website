@@ -4,7 +4,7 @@ This is the repository for the Solid Symposium website.
 
 ## Installation
 
-No installation is required. Visit it at https://sosys25.eu/.
+No installation is required. Visit it at https://sosy25.eu/.
 
 ## Usage
 
